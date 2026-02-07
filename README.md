@@ -39,10 +39,12 @@ The project includes interactive **Plotly** visualizations:
 4.  Open `Champions_League_Prediction.ipynb` and run all cells!
 
 ## 🏆 Current Prediction (Feb 2026)
-According to the model (v2.0 Hyper-Form Update):
+According to the model (v3.0 Logical Form Update):
 1.  🥇 **FC Barcelona** (Top Favorite)
-2.  🥈 **Real Madrid**
+2.  🥈 **Arsenal** (Dominant Form)
 3.  🥉 **Manchester City**
+
+*Note: Real Madrid currently ranks outside the Top 5 due to recent poor form.*
 
 ---
 *Created by a Data Science enthusiast & Football fan.* 🔵🔴
